@@ -1,4 +1,4 @@
- 👋 Olá! Eu sou @guiaf04
+ 👋 Olá! Eu sou o Guilherme.
 
 
 - 👀 Eu estou interessado em Back End e Programação para sistemas embarcados
@@ -17,7 +17,6 @@
  ##
  
  <div> 
-  <a href="https://instagram.com/guilhermearaujofloriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermearaujo@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
