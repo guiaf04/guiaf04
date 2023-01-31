@@ -1,8 +1,8 @@
  👋 Olá! Eu sou o Guilherme.
 
-
-- 👀 Eu estou interessado em Back End e Programação para sistemas embarcados
-- 🌱 Estudando Linguagem C
+- Atualmente cursando o terceiro semestre de Engenharia de Computação
+- Eu estou interessado em Back End e Programação para sistemas embarcados
+- Conhecimentos de Lingiuagem C e Estudando C++
 
 <div align="center">
   <a href="https://github.com/guiaf04">
