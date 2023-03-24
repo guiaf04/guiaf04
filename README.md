@@ -2,14 +2,17 @@
 
 - Atualmente cursando o terceiro semestre de Engenharia de Computação
 - Eu estou interessado em Back End e Programação para sistemas embarcados
-- Conhecimentos de Lingiuagem C e Estudando C++
+- Conhecimentos de Linguagem C e C++
+- Estudando Assembly
 
 <div align="center">
   <a href="https://github.com/guiaf04">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gui-C-Embeded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg" />
+
 </div>
  
  ##
