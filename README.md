@@ -1,8 +1,9 @@
  # 👋 Hi there! I'm Guilherme.
 
-- Currently studying the third semester of Computer Engineering
+- Currently studying the five semester of Computer Engineering in University at Federal University of Ceará (UFC) 🇧🇷
 - I'm interested in Back End and Programming for embedded systems
 - Knowledge of C, C++ and assembly languages
+- Actually learning python
 
 [![wakatime](https://wakatime.com/badge/user/19286ac8-09b6-43d6-bb43-ca36fd445687.svg)](https://wakatime.com/@19286ac8-09b6-43d6-bb43-ca36fd445687)
 
