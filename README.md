@@ -13,10 +13,10 @@
 | Skill | Technologies |
 |-------|--------------|
 | Embedded Systems | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   <img alt="Gui-Assembly" src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge" /> |
-| Hardware Description | ![Static Badge](https://img.shields.io/badge/%3C%2F%3E%20VHDL-white)|
-| Backend | <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
+| Hardware Description | ![Static Badge](https://img.shields.io/badge/%3C%2F%3E%20VHDL-white) <img width=65 alt="vivado" src="https://maker-hub.georgefox.edu/w/images/8/85/Xilinx_image.jpg" />|
+| Backend | <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)|
 | Database | <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
-| Frameworks | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)|
+| Frameworks | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
 
 --- 
 
